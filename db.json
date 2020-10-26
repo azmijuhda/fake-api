@@ -1,34 +1,66 @@
 {
 "users": [
  {
-   "id": "EMP-001",
+   "id": 1,
    "first_name": "Chathurangi",
    "last_name": "Shyalika",
    "email": "chathurangi@innovera.com"
  },
  {
-   "id": "EMP-002",
+   "id": 2,
    "first_name": "Chamani",
    "last_name": "Shiranthika",
    "email": "chamani@innovera.com"
  },
  {
-   "id": "EMP-003",
+   "id": 3,
    "first_name": "Awanthi",
    "last_name": "Balasuriya",
    "email": "awanthi@innovera.com"
  },
  {
-   "id": "EMP-004",
+   "id": 4,
    "first_name": "Jaya",
    "last_name": "Sampath",
    "email": "jaya@innovera.com"
  },
  {
-   "id": "EMP-005",
+   "id": 5,
    "first_name": "Darshana",
    "last_name": "Jayakody",
    "email": "darshana@innovera.com"
  }
-]
+],
+"product": [
+  {
+    "id": 1,
+    "product_name": "Ciki",
+    "product_exp": "2021-10-1",
+    "item": 12
+  },
+  {
+    "id": 2,
+    "product_name": "Rokok",
+    "product_exp": "2021-10-1",
+    "item": 100
+  },
+  {
+    "id": 3,
+    "product_name": "Duren",
+    "product_exp": "2021-10-1",
+    "item": 90
+  },
+  {
+    "id": 4,
+    "product_name": "Make-up",
+    "product_exp": "2021-10-1",
+    "item": 123
+  },
+  {
+    "id": 5,
+    "product_name": "Apel",
+    "product_exp": "2021-10-1",
+    "item": 562
+  }
+ ]
 }
